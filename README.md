@@ -1,6 +1,6 @@
 # RGB Color Value Guessing Game
 
-An RGB guessing game web application, made with JavaScript, HTML, and CSS. I developed this application as an easy and fun way to learn the different RGB values and their associated colors, while learning JavaScript along the way. I have hosted the application and the link can be found [here](https://whatsthatcolor.netlify.app/) or below.
+An RGB guessing game web application, made with JavaScript, HTML, and CSS. I developed this application as an easy and fun way to learn the different RGB values and their associated colors, while practicing JavaScript along the way. I have hosted the application and the link can be found [here](https://whatsthatcolor.netlify.app/) or below.
 
 https://whatsthatcolor.netlify.app/
 
